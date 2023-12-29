@@ -7,13 +7,28 @@ First - low risk
   variation - 60/40 with TLT
   variation - sell put spread for income in bull trend, sell call spread in bear trend
 
-Second - midcap and large growth 
-  AXON, MA, COST, HD, UNH, UBER, PDD
+Second - midcap, large cap growth 
+  AXON, UBER, CRWD/ZS, META, MSFT, GOOG
+  V/MA, COST, HD, UNH, PDD
+  
 
-Third - unvalued (could be value trap) 
-  pypl, pfe, dis, baba
+Third - undervalued (could be value trap) 
+  pypl, pfe, dis, baba,jd
 
-Fourth - aggressive TBD
+Fourth - aggressive growth
+  SOFI, NET, SNOW, CELH, ENPH?, MDB, NOW
+  ONON, TTD, HALO, 
 
-Fifith - speculative TDB
+Fifith - speculative
+  IONQ, KRUS
+  TGTX, AMLX, APLS, KRYS, ITCI, AXSM
+
+Sixth - global hedge. (US rate peaked, dollar go down)
+  STNE, NU, BBAR, PBR, MELI,
+  EWJ, EWZ, TYL
+
+Seven - moon shot
+  ENVX, EOSE, NNOX,
+  CRSP, BEAM, 
+  LU, LX, 
   
